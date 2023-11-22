@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 // mongoose.set('strictQuery',true);
 // const dotenv = require('.env');
-const DB = 'mongodb://127.0.0.1:27017/placement_cell'
+const DB = 'mongodb+srv://sanghamanwatkar1999:6t6mYZkEhwWXXSQ9@cluster0.lkji2mi.mongodb.net/?retryWrites=true&w=majority'
 // dotenv.config({ path: 'config/.env' });
 
 //connecting mongoose with database
