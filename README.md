@@ -18,3 +18,10 @@ An interface for placement cell to keep records of students and schedule intervi
   <li>PassportJS</li>
   <li>MongoDB</li>
 </ul>
+<h2>Run this project locally</h2>
+<ul>
+  <li>Clone the project in your local machine</li>
+  <li>Run npm install</li>
+  <li>Run npm start</li>
+  <li>Go to the URL " localhost:3000</li>
+</ul>
