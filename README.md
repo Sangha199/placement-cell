@@ -1,2 +1,2 @@
 # placement-cell
-This repository contains placement cell project from coding ninjas skill test
+An interface for placement cell to keep records of students and schedule interviews with different companies.
