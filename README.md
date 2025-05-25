@@ -39,4 +39,8 @@ A full-stack web application designed for managing placement activities in a col
 
 ## 📸 Screenshots
 
-![Login Page](./screenshots/signIn.png)
+![SignIn Page](./screenshots/signIn.png)
+![SignUp Page](./screenshots/signUp.png)
+![StudentList Page](./screenshots/studentList.png)
+![Interviews Page](./screenshots/interviews.png)
+
