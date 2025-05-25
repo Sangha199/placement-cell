@@ -39,5 +39,4 @@ A full-stack web application designed for managing placement activities in a col
 
 ## 📸 Screenshots
 
-*(Add a few screenshots of your app’s key pages like Sign In, Student List, Schedule Interview, Report Download, etc. You can add images by placing them in a folder and linking them like this:)*
-
+![Login Page](./screenshots/signIn.png)
